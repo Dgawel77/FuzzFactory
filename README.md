@@ -2,6 +2,8 @@
 
 ![FuzzFactory logo](https://github.com/rohanpadhye/FuzzFactory/blob/master/img/logo_small.png)
 
+This is a fork of the original project [FuzzFactory](https://github.com/rohanpadhye/FuzzFactory).
+
 FuzzFactory is an extension of [AFL](https://github.com/google/AFL) that generalizes coverage-guided fuzzing to domain-specific testing goals. FuzzFactory allows users to guide the fuzzer's search process without having to modify anything in AFL's search algorithm.
 
 
